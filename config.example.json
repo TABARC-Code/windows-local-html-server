@@ -1,0 +1,12 @@
+{
+  "path": ".",
+  "port": 8000,
+  "autoPort": true,
+  "bind": "127.0.0.1",
+  "openBrowser": false,
+  "openFile": "",
+  "quiet": false,
+  "writePid": true,
+  "pidFileName": ".local-html-server.pid",
+  "preferDirectoryFlag": true
+}
